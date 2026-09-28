@@ -30,6 +30,9 @@ The goal is not to collect fixes. It is to preserve the reasoning patterns that 
 8. [A fast path only matters if real workloads reach it](lessons/08-fast-paths-must-be-reachable.md)  
    Dispatch gates, microbenchmarks versus end-to-end evidence, Amdahl's law, and proving practical performance value.
 
+9. [Shape is not memory layout](lessons/09-shape-is-not-memory-layout.md)  
+   Tensor strides, contiguous versus non-contiguous views, backend capability checks, and preserving fast paths.
+
 
 ## Core loop
 
