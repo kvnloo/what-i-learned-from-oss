@@ -24,6 +24,10 @@ The goal is not to collect fixes. It is to preserve the reasoning patterns that 
 6. [Review and maintainer attention](lessons/06-review-and-maintainer-attention.md)  
    Reviewing invariants instead of diffs, strong counterexamples, preserving credit, asking before prescribing, and learning from maintainer feedback.
 
+7. [Scaling curves reveal hidden work](lessons/07-scaling-curves-reveal-hidden-work.md)  
+   Complexity contracts, hidden O(n) work, control architectures, profiling categories, and staged performance fixes.
+
+
 ## Core loop
 
 ```text
