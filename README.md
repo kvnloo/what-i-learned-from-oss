@@ -27,6 +27,9 @@ The goal is not to collect fixes. It is to preserve the reasoning patterns that 
 7. [Scaling curves reveal hidden work](lessons/07-scaling-curves-reveal-hidden-work.md)  
    Complexity contracts, hidden O(n) work, control architectures, profiling categories, and staged performance fixes.
 
+8. [A fast path only matters if real workloads reach it](lessons/08-fast-paths-must-be-reachable.md)  
+   Dispatch gates, microbenchmarks versus end-to-end evidence, Amdahl's law, and proving practical performance value.
+
 
 ## Core loop
 
